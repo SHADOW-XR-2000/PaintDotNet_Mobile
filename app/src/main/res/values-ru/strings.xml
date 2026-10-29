@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TilePaint</string>
+    <string name="undo">Отмена</string>
+    <string name="redo">Повтор</string>
+    <string name="brush">Кисть</string>
+    <string name="eraser">Ластик</string>
+    <string name="status">Тайлов в ОЗУ: %1$d · всего: %2$d · шагов отмены: %3$d</string>
+</resources>

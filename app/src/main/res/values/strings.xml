@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TilePaint</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="brush">Brush</string>
+    <string name="eraser">Eraser</string>
+    <string name="status">Tiles in RAM: %1$d · total: %2$d · undo steps: %3$d</string>
+</resources>
